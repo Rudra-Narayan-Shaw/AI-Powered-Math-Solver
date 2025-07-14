@@ -28,18 +28,18 @@
 
 ## 🗂️ Project Structure
 
-| File/Folder                     | Description                                                                 |
+| File/Folder                      | Description                                                                 |
 |----------------------------------|-----------------------------------------------------------------------------|
-| `README.md`                     | Project overview, setup, usage, and credits (this file).                    |
-| `requirements.txt`              | Python dependencies (gradio, sympy, numpy, opencv-python, etc.).            |
-| `app.py`                        | Main application script; integrates all modules and runs the web app.        |
-| `image.py`                      | Image input processing and OCR integration (Pix2Text, Tesseract, MathPix).  |
-| `linear.py`                     | Logic for solving linear equations (matrix ops, symbolic methods).           |
-| `polynomial.py`                 | Polynomial equation solving and stepwise formatting.                         |
-| `.gitignore`                    | Specifies files/folders to be ignored by Git.                                |
-| `LICENSE`                       | Project license (e.g., MIT, Apache 2.0).                                    |
-| `AIMathSolver(1).PDF`           | Self-documentation (LaTeX, Overleaf).                                       |
-| `AI-Powered_Equation_Solver.pdf`| Group documentation (MS Word, submitted to IDEAS, ISI Kolkata).             |
+| `README.md`                      | Project overview, setup, usage, and credits (this file).                    |
+| `requirements.txt`               | Python dependencies (gradio, sympy, numpy, opencv-python, etc.).            |
+| `app.py`                         | Main application script; integrates all modules and runs the web app.       |
+| `image.py`                       | Image input processing and OCR integration (Pix2Text, Tesseract, MathPix).  |
+| `linear.py`                      | Logic for solving linear equations (matrix ops, symbolic methods).          |
+| `polynomial.py`                  | Polynomial equation solving and stepwise formatting.                        |
+| `.gitignore`                     | Specifies files/folders to be ignored by Git.                               |
+| `LICENSE`                        | Project license (e.g., MIT, Apache 2.0).                                    |
+| `AIMathSolver(1).PDF`            | Group documentation (MS Word, submitted to IDEAS, ISI Kolkata).             |
+| `AI-Powered_Equation_Solver.pdf` | Self-documentation (LaTeX, Overleaf).                                       |
 
 ## 🛠️ Getting Started
 
@@ -115,13 +115,13 @@ Upload a photo of a handwritten quadratic equation.
 
 | Platform/Version         | Link                                                                                                  |
 |--------------------------|-------------------------------------------------------------------------------------------------------|
-| **Main Demo**            | [Hugging Face Space (Rudra’s Version)](https://huggingface.co/spaces/rU-ShawJI-07/EqToSol_V4)        |
-| **Aritrajit’s Version**  | [Hugging Face Space](https://huggingface.co/spaces/Aroy1997/poly_oracle)                             |
-| **Swapnomon’s Version**  | [Hugging Face Space](https://huggingface.co/spaces/MasteredUltraInstinct/FinishedProject)            |
-| **Vedika’s Version**     | [GitHub Repository](https://github.com/VedikaThakur/Solvify/tree/main)                               |
-| **Rwiddhit’s Version**   | [Hugging Face Space](https://www.linkedin.com/in/srijit-mukherjee/)                                  |
-| **Mentor**   | [LinkedIN](https://huggingface.co/spaces/red-cq/polynomialOCR)                             |
-| **Institution:**   | [Google](https://www.ideas-tih.org/)                             |
+| **Main Demo**            | [Hugging Face Space (Rudra’s Version)](https://huggingface.co/spaces/rU-ShawJI-07/EqToSol_V4)         |
+| **Aritrajit’s Version**  | [Hugging Face Space](https://huggingface.co/spaces/Aroy1997/poly_oracle)                              |
+| **Swapnomon’s Version**  | [Hugging Face Space](https://huggingface.co/spaces/MasteredUltraInstinct/FinishedProject)             |
+| **Vedika’s Version**     | [GitHub Repository](https://github.com/VedikaThakur/Solvify/tree/main)                                |
+| **Rwiddhit’s Version**   | [Hugging Face Space](https://www.linkedin.com/in/srijit-mukherjee/)                                   |
+| **Mentor**               | [LinkedIN](https://huggingface.co/spaces/red-cq/polynomialOCR)                                        |
+| **Institution:**         | [Google](https://www.ideas-tih.org/)                                                                  |
 
 
 *For questions, suggestions, or collaborations, please open an issue or submit a pull request. You can also connect with team members via their respective project links above.*
