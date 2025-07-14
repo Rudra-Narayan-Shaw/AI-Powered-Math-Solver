@@ -96,8 +96,8 @@ Upload a photo of a handwritten quadratic equation.
 
 ## 📄 Documentation
 
-- **Group Report:** `AI-Powered_Equation_Solver.pdf`
-- **Self Documentation:** `AIMathSolver(1).PDF`
+- **Group Report:** `AIMathSolver(1).PDF`
+- **Self Documentation:** `AI-Powered_Equation_Solver.pdf`
 - **Demo:** [Hugging Face Space](https://huggingface.co/spaces/rU-ShawJI-07/EqToSol_V4)
 
 ## 👥 Meet the Team
@@ -122,26 +122,6 @@ Upload a photo of a handwritten quadratic equation.
 | **Rwiddhit’s Version**   | [Hugging Face Space](https://www.linkedin.com/in/srijit-mukherjee/)                                  |
 | **Mentor**   | [LinkedIN](https://huggingface.co/spaces/red-cq/polynomialOCR)                             |
 | **Institution:**   | [Google](https://www.ideas-tih.org/)                             |
-
-
-🏅 Displaying Certificate
-We are proud to have successfully completed the IDEAS, ISI Kolkata Internship (May–July 2025), under the esteemed mentorship of Srijit Mukherjee. Our dedication and teamwork are reflected in the official documentation and certification received for the AI-Powered Math Solver project.
-
-📄 Certificate & Documentation
-<div align="center"> <a href="https://drive.google.com/file/d/1PFdeygwUXIloD34iCB4Z-5mkVMgSLIjO/view?usp=drive_link" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Certificate PDF" width="90" /> <br> <b>Click to View/Download Certificate & Self Documentation (PDF)</b> </a> </div>
-Title: Image-to-Equation Recognition with Stepwise Explanations and Visualizations
-
-Team: Aritrajit Roy, Rudra Narayan Shaw, Rwiddhit Chatterjee, Swapnomon Murari, Vedika Anand Thakur
-
-Mentor: Srijit Mukherjee
-
-Internship Period: 19th May 2025 – 15th July 2025
-
-Institution: IDEAS – Institute of Data Engineering, Analytics and Science Foundation, ISI Kolkata
-
-📥 Download Certificate & Self Documentation (AIMathSolver-1.PDF)
-
-
 
 
 *For questions, suggestions, or collaborations, please open an issue or submit a pull request. You can also connect with team members via their respective project links above.*
