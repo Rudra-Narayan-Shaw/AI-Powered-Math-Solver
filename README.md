@@ -129,8 +129,3 @@ Upload a photo of a handwritten quadratic equation.
 ## 📜 License
 
 Licensed under the terms specified in the `LICENSE` file.
-
-> *For questions, suggestions, or contributions, please open an issue or submit a pull request. Happy solving!*
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72691087/a412c8b8-6da3-45f5-b641-c094463494cb/AIMathSolver-1.PDF
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/72691087/49b4af50-6d25-4f31-a316-d6ee8997e742/AI-Powered_Equation_Solver.pdf
